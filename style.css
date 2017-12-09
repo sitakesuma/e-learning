@@ -1,0 +1,82 @@
+body {
+    background-color: white;
+}
+html,body {
+  margin: 0;
+}
+#tab_bar {
+    height: 70px;
+    width: 1366pnx;
+    background:white;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+}
+.menu:link, .menu:hover, .menu:active {
+    background: white;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.menu:link {
+    padding: 18px 50px;
+    position: relative;
+    top: 25px;
+    left: 710px;
+}
+.menu:hover {
+    background-color: orange;
+}
+.menu:active {
+    background-color: orange;
+}
+.background_tittle {
+    background: url("cover_page3.jpg");
+    height: 400px;
+    border: 2px solid black;
+}
+.tittle {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.473);
+    height: 150px;
+    margin-top: 120px;
+    font-size: 43px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.font_tittle {
+    padding-top: 18px;
+}
+#deskripsi {
+    font-size: 27px;
+    padding-top: 20px;
+    padding-bottom:35px;
+    background-color: coral;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+#deskripsi2 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.deskripsi_gambar {
+    float: right;
+}
+.font_deskripsi {
+    padding-top: 70px;
+    padding-bottom: 85px;
+    padding-left: 10px;
+    font-size: 25px;
+    text-align: left;
+}
+.border_menu {
+    margin: 20px;
+}
+.menu_gambar2 {
+    padding: 65px;
+}
+.menu_gambar3 {   
+    position: relative;
+    margin-left: 60px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-size: 21px; 
+    width: 255px;
+    background-color: peachpuff;
+}

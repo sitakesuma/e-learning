@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+}
+html,body {
+  margin: 0;
+}
+#tab_bar {
+    height: 70px;
+    width: 1366px;
+    background:white;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+}
+.menu:link, .menu:hover, .menu:active {
+    background:white;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.menu:link {
+    padding: 18px 50px;
+    position: relative;
+    top: 25px;
+    left: 710px;
+}
+.menu:hover {
+    background-color: orange;
+}
+.menu:active {
+    background-color: white;
+}
+.background_tittle {
+    background: url("cover_page3.jpg");
+    height: 400px;
+    border: 2px solid black;
+}
+.tittle {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.473);
+    height: 150px;
+    margin-top: 120px;
+    font-size: 43px;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+.font_tittle {
+    padding-top: 18px;
+}
+.gambar_judul {
+    float: right;
+}
+.padding_resep {
+    padding: 20px;
+}
+.deskripsi_judul {
+    font-size: 23px;
+}
